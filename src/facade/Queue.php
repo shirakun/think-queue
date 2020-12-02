@@ -13,6 +13,6 @@ class Queue extends Facade
 {
     protected static function getFacadeClass()
     {
-        return 'shirakun\queue';
+        return '\shirakun\Queue';
     }
 }
